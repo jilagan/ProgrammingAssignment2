@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Test comment-jilagan, 22 May 2014
 
 ## Write a short comment describing this function
 
